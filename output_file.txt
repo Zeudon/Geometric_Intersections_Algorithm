@@ -1,0 +1,2 @@
+3
+0 0 2 20 10 2 125 15 10 10There are 0 intersection points.

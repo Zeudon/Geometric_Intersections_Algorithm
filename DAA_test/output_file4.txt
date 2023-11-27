@@ -1,0 +1,16 @@
+6
+11 3 6 5
+3 7 12 4
+2 13 11 6
+3 6 10 7
+4 7 5 14
+7 2 6 13
+Lines 3 and 5 intersect at ( 4.57143 , 11 )
+Lines 2 and 4 intersect at ( 5.1 , 6.3 )
+Lines 3 and 6 intersect at ( 6.30435 , 9.65217 )
+Lines 4 and 6 intersect at ( 6.58974 , 6.51282 )
+Lines 2 and 6 intersect at ( 6.65625 , 5.78125 )
+Lines 1 and 6 intersect at ( 6.75472 , 4.69811 )
+Lines 3 and 4 intersect at ( 9.75862 , 6.96552 )
+There are 7 intersection points.
+Time Taken : 0.047 seconds

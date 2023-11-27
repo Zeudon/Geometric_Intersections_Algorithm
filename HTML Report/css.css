@@ -1,0 +1,19 @@
+div.header {
+    display: block;
+    text-align: center;
+    position: running(header);
+    width: 100%;
+}
+
+div.footer {
+    display: block;
+    text-align: center;
+    position: running(footer);
+    width: 100%;
+}
+body {
+    padding-top: 50px;
+}
+.custom-page-start {
+    margin-top: 50px;
+}
